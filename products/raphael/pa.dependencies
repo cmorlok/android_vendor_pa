@@ -1,7 +1,7 @@
 [
     {
         "remote":       "github",
-        "repository":   "TingyiChen/vendor_xiaomi_raphael",
+        "repository":   "UtsavisGreat/vendor_xiaomi_raphael",
         "target_path":  "vendor/xiaomi/raphael",
         "revision":     "lineage-16.0"
     },

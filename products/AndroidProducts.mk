@@ -50,5 +50,6 @@ COMMON_LUNCH_CHOICES += \
     pa_oneplus6-userdebug \
     pa_oneplus6t-userdebug \
     pa_polaris-userdebug \
+    pa_raphael-userdebug \
     pa_sagit-userdebug \
     pa_suzu-userdebug
